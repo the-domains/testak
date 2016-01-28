@@ -1,0 +1,28 @@
+name: testak
+favicon: null
+layout_spectrum: 0.6119011787232012
+typography_spectrum: 0.2256777270231396
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9753876549657434
+  lightness: 0.32003797334618866
+  saturation: 0.3234515495132655
+  rhythmicContrast: 0.31844132975675166
+purpose: []
